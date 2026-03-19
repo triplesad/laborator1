@@ -4,3 +4,5 @@ def create_topic(title, author):
 
 def add_message(topic, author, text):
     print(f"В тему '{topic}' добавлено сообщение от {author}: {text}")
+
+print("Модуль работы с темами форума")
